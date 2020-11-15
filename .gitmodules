@@ -12,3 +12,8 @@
 	path = OCA/sale-workflow
 	url = git@github.com:OCA/sale-workflow.git
 	branch = 13.0
+
+[submodule "OCA/credit-controll"]
+	path = OCA/credit-controll
+	url = git@github.com:OCA/credit-control.git
+	branch = 13.0
